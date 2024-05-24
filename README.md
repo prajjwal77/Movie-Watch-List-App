@@ -1,1 +1,2 @@
-Developed a dynamic web application for managing a personalized movie watchlist. The application allow the user create a movie watchlist, priorities the movie(low, average and high) and also rate the movies.
+Utilized (Java, Spring Framework, Thymeleaf, HTML, CSS, REST API's) 
+Developed a dynamic web application to managing a personalized movie watchlist. Application allow the user to create a movie watchlist, priorities the movie(low, average, high) and also rate the movie.
